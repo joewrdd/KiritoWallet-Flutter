@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:crypto_wallet/services/api_service.dart';
-import 'package:crypto_wallet/views/components/item.dart';
+import 'package:crypto_wallet/views/widgets/item.dart';
 
 class TopCoinsScreen extends StatefulWidget {
   const TopCoinsScreen({super.key});

@@ -1,4 +1,4 @@
-import 'package:crypto_wallet/views/components/item.dart';
+import 'package:crypto_wallet/views/widgets/item.dart';
 import 'package:crypto_wallet/views/game.dart';
 import 'package:crypto_wallet/views/selectedCoin.dart';
 import 'package:crypto_wallet/views/top_coins.dart';
