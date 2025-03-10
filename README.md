@@ -138,35 +138,48 @@ lib/
 ## 📸 Screenshots
 
 <div align="center">
-  <!-- Main Screen & Crypto Details -->
-  <p align="center">
-    <img src="assets/screenshots/1.png" width="400" alt="Main Screen"/>
-    <img src="assets/screenshots/2.png" width="400" alt="Crypto Details"/>
-  </p>
-
-  <!-- Top Performers & Game -->
-  <p align="center">
-    <img src="assets/screenshots/3.png" width="400" alt="Top Performers"/>
-    <img src="assets/screenshots/4.png" width="400" alt="Game Screen"/>
-  </p>
-
-  <!-- Search & News -->
-  <p align="center">
-    <img src="assets/screenshots/5.png" width="400" alt="Search Screen"/>
-    <img src="assets/screenshots/6.png" width="400" alt="News Screen"/>
-  </p>
-
-  <!-- Settings & TOS -->
-  <p align="center">
-    <img src="assets/screenshots/7.png" width="400" alt="Settings Screen"/>
-    <img src="assets/screenshots/8.png" width="400" alt="TOS Screen"/>
-  </p>
-
-  <!-- Privacy Policy & Additional -->
-  <p align="center">
-    <img src="assets/screenshots/9.png" width="400" alt="Privacy Policy"/>
-    <img src="assets/screenshots/10.png" width="400" alt="Additional Screen"/>
-  </p>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <!-- Main Screen -->
+    <div style="flex: 2; padding: 10px;">
+      <p><strong>Main Screens</strong></p>
+      <div style="display: flex; gap: 10px;">
+        <img src="assets/screenshots/1.png" width="250" alt="Main Screen"/>
+        <img src="assets/screenshots/2.png" width="250" alt="Crypto Details"/>
+      </div>
+    </div>
+    <!-- Top Performers & Crypto Details-->
+    <div style="flex: 2; padding: 10px; margin-top: 20px;">
+      <p><strong>Top Performers & Crypto Details</strong></p>
+      <div style="display: flex; gap: 10px;">
+        <img src="assets/screenshots/3.png" width="250" alt="Top Performers"/>
+        <img src="assets/screenshots/4.png" width="250" alt="Game Screen"/>
+      </div>
+    </div>
+    <!-- Search & Game -->
+    <div style="flex: 2; padding: 10px; margin-top: 20px;">
+      <p><strong>Search Feature, With Transaction History + Betting Game</strong></p>
+      <div style="display: flex; gap: 10px;">
+        <img src="assets/screenshots/5.png" width="250" alt="Search Screen"/>
+        <img src="assets/screenshots/6.png" width="250" alt="News Screen"/>
+      </div>
+    </div>
+    <!-- Settings & News -->
+    <div style="flex: 2; padding: 10px; margin-top: 20px;">
+      <p><strong>Settings & News</strong></p>
+      <div style="display: flex; gap: 10px;">
+        <img src="assets/screenshots/7.png" width="250" alt="Settings Screen"/>
+        <img src="assets/screenshots/8.png" width="250" alt="TOS Screen"/>
+      </div>
+    </div>
+    <!-- Privacy Policy & TOS -->
+    <div style="flex: 2; padding: 10px; margin-top: 20px;">
+      <p><strong>Privacy Policy & Term Of Service</strong></p>
+      <div style="display: flex; gap: 10px;">
+        <img src="assets/screenshots/9.png" width="250" alt="Privacy Policy"/>
+        <img src="assets/screenshots/10.png" width="250" alt="Additional Screen"/>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## 🤝 Contributing
