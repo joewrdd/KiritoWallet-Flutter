@@ -138,55 +138,35 @@ lib/
 ## 📸 Screenshots
 
 <div align="center">
-  <!-- Main Screen -->
-  <div style="display: flex; align-items: center; margin-top: 20px;">
-    <div style="flex: 1; padding: 10px;">
-      <img src="assets/screenshots/1.png" width="250" alt="Screenshot 1"/>
-    </div>
-    <div style="flex: 1; padding: 10px;">
-      <img src="assets/screenshots/2.png" width="250" alt="Screenshot 2"/>
-    </div>
-  </div>
+  <!-- Main Screen & Crypto Details -->
+  <p align="center">
+    <img src="assets/screenshots/1.png" width="400" alt="Main Screen"/>
+    <img src="assets/screenshots/2.png" width="400" alt="Crypto Details"/>
+  </p>
 
-  <!-- Crpyto Details / Top Performers -->
-  <div style="display: flex; align-items: center; margin-top: 20px;">
-    <div style="flex: 1; padding: 10px;">
-      <img src="assets/screenshots/3.png" width="250" alt="Screenshot 3"/>
-    </div>
-    <div style="flex: 1; padding: 10px;">
-      <img src="assets/screenshots/4.png" width="250" alt="Screenshot 4"/>
-    </div>
-  </div>
+  <!-- Top Performers & Game -->
+  <p align="center">
+    <img src="assets/screenshots/3.png" width="400" alt="Top Performers"/>
+    <img src="assets/screenshots/4.png" width="400" alt="Game Screen"/>
+  </p>
 
-  <!-- Betting System Game / Search -->
-  <div style="display: flex; align-items: center; margin-top: 20px;">
-    <div style="flex: 1; padding: 10px;">
-      <img src="assets/screenshots/5.png" width="250" alt="Screenshot 5"/>
-    </div>
-    <div style="flex: 1; padding: 10px;">
-      <img src="assets/screenshots/6.png" width="250" alt="Screenshot 6"/>
-    </div>
-  </div>
+  <!-- Search & News -->
+  <p align="center">
+    <img src="assets/screenshots/5.png" width="400" alt="Search Screen"/>
+    <img src="assets/screenshots/6.png" width="400" alt="News Screen"/>
+  </p>
 
-  <!-- Crpyto News / Settings -->
-  <div style="display: flex; align-items: center; margin-top: 20px;">
-    <div style="flex: 1; padding: 10px;">
-      <img src="assets/screenshots/7.png" width="250" alt="Screenshot 7"/>
-    </div>
-    <div style="flex: 1; padding: 10px;">
-      <img src="assets/screenshots/8.png" width="250" alt="Screenshot 8"/>
-    </div>
-  </div>
+  <!-- Settings & TOS -->
+  <p align="center">
+    <img src="assets/screenshots/7.png" width="400" alt="Settings Screen"/>
+    <img src="assets/screenshots/8.png" width="400" alt="TOS Screen"/>
+  </p>
 
-  <!-- TOS / Privacy Policy -->
-  <div style="display: flex; align-items: center; margin-top: 20px;">
-    <div style="flex: 1; padding: 10px;">
-      <img src="assets/screenshots/9.png" width="250" alt="Screenshot 9"/>
-    </div>
-    <div style="flex: 1; padding: 10px;">
-      <img src="assets/screenshots/10.png" width="250" alt="Screenshot 10"/>
-    </div>
-  </div>
+  <!-- Privacy Policy & Additional -->
+  <p align="center">
+    <img src="assets/screenshots/9.png" width="400" alt="Privacy Policy"/>
+    <img src="assets/screenshots/10.png" width="400" alt="Additional Screen"/>
+  </p>
 </div>
 
 ## 🤝 Contributing
