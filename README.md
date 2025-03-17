@@ -198,3 +198,4 @@ Joe Ward - [GitHub Profile](https://github.com/joewrdd)
 
 - CoinGecko API for cryptocurrency data
 - NewsData.io for news updates
+- Flutter for the UI integration
