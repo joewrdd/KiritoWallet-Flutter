@@ -1,5 +1,16 @@
 # Kirito Crypto Wallet Quest 🎮
 
+<div align="center">
+
+![KiritoWallet Banner](assets/applogo.png)
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Riverpod](https://img.shields.io/badge/Riverpod-State%20Management-0A7E8C?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/packages/flutter_riverpod)
+[![CoinGecko](https://img.shields.io/badge/CoinGecko-Crypto%20API-00DC5A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.coingecko.com/en/api)
+
+</div>
+
 A pixel-themed cryptocurrency tracking app built with Flutter that combines crypto monitoring, news updates, and gaming elements in a unique retro-styled interface.
 
 ## ✨ Features
