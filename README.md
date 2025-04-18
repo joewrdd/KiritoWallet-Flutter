@@ -5,7 +5,7 @@
 ![KiritoWallet Banner](assets/applogo.png)
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/Dart-2.18+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Riverpod](https://img.shields.io/badge/Riverpod-State%20Management-0A7E8C?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/packages/flutter_riverpod)
 [![CoinGecko](https://img.shields.io/badge/CoinGecko-Crypto%20API-00DC5A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.coingecko.com/en/api)
 
